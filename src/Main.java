@@ -6,6 +6,12 @@ public class Main {
         System.out.println("EDAD: 34");
         System.out.println("PASTOR ALEMAN - SIMONA");
 
+        System.out.println("-------------------------------------");
+
+        System.out.println("SI TENEMOS HERMANOS CUANTOS ");
+        System.out.println("MI PAPA");
+        System.out.println("MI MAMA");
+
 
 
 
